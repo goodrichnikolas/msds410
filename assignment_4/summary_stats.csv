@@ -1,0 +1,2 @@
+"","mean_LotArea","median_LotArea","min_LotArea","max_LotArea","sd_LotArea","mean_FirstFlrSF","median_FirstFlrSF","min_FirstFlrSF","max_FirstFlrSF","sd_FirstFlrSF","mean_GarageArea","median_GarageArea","min_GarageArea","max_GarageArea","sd_GarageArea","mean_TotalBsmtSF","median_TotalBsmtSF","min_TotalBsmtSF","max_TotalBsmtSF","sd_TotalBsmtSF"
+"1",11308.171833481,9991,2887,215245,8660.32378949464,1325.80070859167,1266,407,5095,406.37025460691,507.454384410983,484,100,1390,201.469420054307,1256.78387953942,1188,105,5095,419.876456486347
